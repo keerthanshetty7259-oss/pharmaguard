@@ -1,0 +1,6 @@
+node_modules/
+backend/.env
+backend/.tesseract-cache/
+backend/data/ddinter/*.csv
+*.log
+.DS_Store

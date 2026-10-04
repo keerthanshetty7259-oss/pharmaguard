@@ -1,0 +1,41 @@
+drug_a,drug_b,severity,note
+warfarin,ibuprofen,Major,Both increase bleeding risk; NSAIDs can also raise the effect of warfarin.
+warfarin,aspirin,Major,Increased risk of serious bleeding when taken together.
+warfarin,naproxen,Major,Both increase bleeding risk; NSAIDs can also raise the effect of warfarin.
+warfarin,diclofenac,Major,Both increase bleeding risk; NSAIDs can also raise the effect of warfarin.
+warfarin,fluconazole,Major,Fluconazole can markedly increase the blood-thinning effect of warfarin.
+warfarin,amiodarone,Major,Amiodarone can markedly increase the blood-thinning effect of warfarin.
+warfarin,metronidazole,Major,Metronidazole can markedly increase the blood-thinning effect of warfarin.
+warfarin,ciprofloxacin,Moderate,Ciprofloxacin may increase the blood-thinning effect of warfarin.
+warfarin,acetaminophen,Moderate,Regular use of acetaminophen may increase the blood-thinning effect of warfarin.
+aspirin,ibuprofen,Moderate,Ibuprofen may reduce aspirin's heart-protective effect and both raise stomach bleeding risk.
+aspirin,naproxen,Moderate,Combining NSAIDs raises the risk of stomach bleeding.
+ibuprofen,naproxen,Moderate,Combining two NSAIDs raises the risk of stomach bleeding and kidney problems.
+ibuprofen,ketorolac,Major,Combining NSAIDs raises the risk of serious stomach bleeding and kidney problems.
+sildenafil,nitroglycerin,Major,Can cause a dangerous drop in blood pressure.
+sildenafil,isosorbide mononitrate,Major,Can cause a dangerous drop in blood pressure.
+tadalafil,nitroglycerin,Major,Can cause a dangerous drop in blood pressure.
+simvastatin,clarithromycin,Major,Clarithromycin raises simvastatin levels and the risk of muscle damage.
+simvastatin,itraconazole,Major,Itraconazole raises simvastatin levels and the risk of muscle damage.
+simvastatin,amiodarone,Moderate,Amiodarone raises simvastatin levels and the risk of muscle damage.
+digoxin,amiodarone,Major,Amiodarone raises digoxin levels and the risk of digoxin toxicity.
+digoxin,clarithromycin,Moderate,Clarithromycin can raise digoxin levels.
+lisinopril,spironolactone,Moderate,Both raise potassium; high potassium can affect the heart.
+lisinopril,potassium chloride,Moderate,Both raise potassium; high potassium can affect the heart.
+lisinopril,ibuprofen,Moderate,NSAIDs can reduce the blood-pressure effect and strain the kidneys.
+enalapril,ibuprofen,Moderate,NSAIDs can reduce the blood-pressure effect and strain the kidneys.
+lithium,ibuprofen,Moderate,NSAIDs can raise lithium levels.
+lithium,lisinopril,Moderate,ACE inhibitors can raise lithium levels.
+sertraline,tramadol,Major,Increased risk of serotonin syndrome and seizures.
+fluoxetine,tramadol,Major,Increased risk of serotonin syndrome and seizures.
+sertraline,linezolid,Major,Increased risk of serotonin syndrome.
+methotrexate,trimethoprim,Major,Increased risk of serious bone-marrow suppression.
+methotrexate,naproxen,Moderate,NSAIDs can raise methotrexate levels.
+clopidogrel,omeprazole,Moderate,Omeprazole may reduce the effect of clopidogrel.
+diazepam,oxycodone,Major,Combined sedation and slowed breathing; can be life-threatening.
+alprazolam,oxycodone,Major,Combined sedation and slowed breathing; can be life-threatening.
+ciprofloxacin,tizanidine,Major,Ciprofloxacin greatly raises tizanidine levels causing very low blood pressure and sedation.
+allopurinol,azathioprine,Major,Allopurinol raises azathioprine levels and the risk of serious bone-marrow suppression.
+theophylline,ciprofloxacin,Moderate,Ciprofloxacin can raise theophylline levels.
+apixaban,ibuprofen,Moderate,Combined use raises bleeding risk.
+rivaroxaban,aspirin,Moderate,Combined use raises bleeding risk.
